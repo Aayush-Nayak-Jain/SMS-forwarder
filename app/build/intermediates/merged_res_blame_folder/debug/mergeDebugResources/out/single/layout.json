@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\GuestUser\\.gradle\\daemon\\9.3.0\\com.aayush.smsforwarder.app-mergeDebugResources-35:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\GuestUser\\.gradle\\daemon\\9.3.0\\com.aayush.smsforwarder.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\GuestUser\\.gradle\\daemon\\9.3.0\\com.aayush.smsforwarder.app-mergeDebugResources-35:\\layout\\item_sender.xml",
+        "source": "C:\\Users\\GuestUser\\.gradle\\daemon\\9.3.0\\com.aayush.smsforwarder.app-main-38:\\layout\\item_sender.xml"
+    },
+    {
+        "merged": "com.aayush.smsforwarder.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.aayush.smsforwarder.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.aayush.smsforwarder.app-mergeDebugResources-35:/layout/item_rule.xml",
+        "source": "com.aayush.smsforwarder.app-main-38:/layout/item_rule.xml"
+    },
+    {
+        "merged": "C:\\Users\\GuestUser\\.gradle\\daemon\\9.3.0\\com.aayush.smsforwarder.app-mergeDebugResources-35:\\layout\\dialog_add_rule.xml",
+        "source": "C:\\Users\\GuestUser\\.gradle\\daemon\\9.3.0\\com.aayush.smsforwarder.app-main-38:\\layout\\dialog_add_rule.xml"
+    },
+    {
+        "merged": "C:\\Users\\GuestUser\\.gradle\\daemon\\9.3.0\\com.aayush.smsforwarder.app-mergeDebugResources-35:\\layout\\activity_import_senders.xml",
+        "source": "C:\\Users\\GuestUser\\.gradle\\daemon\\9.3.0\\com.aayush.smsforwarder.app-main-38:\\layout\\activity_import_senders.xml"
+    },
+    {
+        "merged": "C:\\Users\\GuestUser\\.gradle\\daemon\\9.3.0\\com.aayush.smsforwarder.app-mergeDebugResources-35:\\layout\\item_rule.xml",
+        "source": "C:\\Users\\GuestUser\\.gradle\\daemon\\9.3.0\\com.aayush.smsforwarder.app-main-38:\\layout\\item_rule.xml"
+    }
+]

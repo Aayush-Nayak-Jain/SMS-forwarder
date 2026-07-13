@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#6750A4</color>
+    <color name="purple_700">#4F378B</color>
+    <color name="teal_200">#03DAC5</color>
+    <string name="add_manually">Add manually</string>
+    <string name="add_rule_title">New forwarding rule</string>
+    <string name="app_name">SMS Forwarder</string>
+    <string name="battery_opt_allow">Allow</string>
+    <string name="battery_opt_message">Your phone may delay or kill SMS forwarding to save battery. Exempting this app fixes forwarding lag and dropped messages.</string>
+    <string name="battery_opt_skip">Skip</string>
+    <string name="battery_opt_title">Allow background running?</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm_delete_selected_message">This will permanently remove the selected forwarding rules.</string>
+    <string name="confirm_delete_selected_title">Delete rules?</string>
+    <string name="delete_rule">Delete rule</string>
+    <string name="delete_selected">Delete</string>
+    <string name="edit_rule_title">Edit rule</string>
+    <string name="fill_both_fields">Enter both a sender and a recipient.</string>
+    <string name="forward_to_hint">Forward to (phone number)</string>
+    <string name="import_from_inbox">Import from inbox</string>
+    <string name="import_senders_title">Pick a sender</string>
+    <string name="no_rules_yet">No rules yet. Add a sender to start forwarding.</string>
+    <string name="no_senders_found">No senders found in your inbox.</string>
+    <string name="permissions_required">SMS permissions are required to forward messages.</string>
+    <string name="rules_subtitle">Pick who gets watched, and where their messages go.</string>
+    <string name="save">Save</string>
+    <string name="selected_count_format">%d selected</string>
+    <string name="watch_sender_hint">Watch sender (number or ID)</string>
+    <style name="Theme.SmsForwarder" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">@color/teal_200</item>
+    </style>
+</resources>

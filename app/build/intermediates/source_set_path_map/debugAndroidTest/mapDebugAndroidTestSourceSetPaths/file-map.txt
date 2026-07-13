@@ -1,0 +1,4 @@
+com.aayush.smsforwarder.test.app-androidTest-0 P:\SmsForwarder\app\build\generated\res\resValues\androidTest\debug
+com.aayush.smsforwarder.test.app-mergeDebugAndroidTestResources-1 P:\SmsForwarder\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.aayush.smsforwarder.test.app-mergeDebugAndroidTestResources-2 P:\SmsForwarder\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.aayush.smsforwarder.test.app-debugAndroidTest-3 P:\SmsForwarder\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

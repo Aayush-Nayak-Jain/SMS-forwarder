@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\GuestUser\\.gradle\\daemon\\9.3.0\\com.aayush.smsforwarder.app-debug-36:\\layout_dialog_add_rule.xml.flat",
+        "source": "C:\\Users\\GuestUser\\.gradle\\daemon\\9.3.0\\com.aayush.smsforwarder.app-main-38:\\layout\\dialog_add_rule.xml"
+    },
+    {
+        "merged": "C:\\Users\\GuestUser\\.gradle\\daemon\\9.3.0\\com.aayush.smsforwarder.app-debug-36:\\layout_item_sender.xml.flat",
+        "source": "C:\\Users\\GuestUser\\.gradle\\daemon\\9.3.0\\com.aayush.smsforwarder.app-main-38:\\layout\\item_sender.xml"
+    },
+    {
+        "merged": "com.aayush.smsforwarder.app-debug-36:/layout_activity_main.xml.flat",
+        "source": "com.aayush.smsforwarder.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.aayush.smsforwarder.app-debug-36:/layout_item_rule.xml.flat",
+        "source": "com.aayush.smsforwarder.app-main-38:/layout/item_rule.xml"
+    },
+    {
+        "merged": "C:\\Users\\GuestUser\\.gradle\\daemon\\9.3.0\\com.aayush.smsforwarder.app-debug-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\GuestUser\\.gradle\\daemon\\9.3.0\\com.aayush.smsforwarder.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\GuestUser\\.gradle\\daemon\\9.3.0\\com.aayush.smsforwarder.app-debug-36:\\layout_activity_import_senders.xml.flat",
+        "source": "C:\\Users\\GuestUser\\.gradle\\daemon\\9.3.0\\com.aayush.smsforwarder.app-main-38:\\layout\\activity_import_senders.xml"
+    },
+    {
+        "merged": "C:\\Users\\GuestUser\\.gradle\\daemon\\9.3.0\\com.aayush.smsforwarder.app-debug-36:\\layout_item_rule.xml.flat",
+        "source": "C:\\Users\\GuestUser\\.gradle\\daemon\\9.3.0\\com.aayush.smsforwarder.app-main-38:\\layout\\item_rule.xml"
+    },
+    {
+        "merged": "C:\\Users\\GuestUser\\.gradle\\daemon\\9.3.0\\com.aayush.smsforwarder.app-debug-36:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\GuestUser\\.gradle\\daemon\\9.3.0\\com.aayush.smsforwarder.app-main-38:\\drawable\\ic_launcher.xml"
+    }
+]
